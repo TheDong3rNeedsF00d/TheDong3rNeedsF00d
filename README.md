@@ -8,8 +8,7 @@
 └─# whoami
 Red Team Analyst | CTF Player | Breaker of things
 
-<h3 align="center">:bomb: Stay stealthy. Stay sharp. Own the network.</h3>
-```
+<h3 align="center">:bomb: Stay stealthy. Stay sharp. Own the network.</h3>```
 
 
 
