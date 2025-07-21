@@ -15,12 +15,10 @@ Red Team Analyst | CTF Player | Breaker of things
 
 
 
-3:09
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&hide_border=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDong3rNeedsF00d&layout=compact&theme=radical" height="165">
 </p>
-3:09
 <!-- Replace with your own gist ID -->
 
 
