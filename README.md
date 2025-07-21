@@ -12,15 +12,6 @@ Red Team Analyst | CTF Player | Breaker of things
 
 
 
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&hide_border=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDong3rNeedsF00d&layout=compact&theme=radical" height="165">
-</p>
-<!-- Replace with your own gist ID -->
-
-
 :hammer_and_wrench: Skills & Arsenal
 	•	:dart: Offensive Security | Penetration Testing | APT Simulations
 	•	:magnifying_glass_tilted_left: OSINT | Recon-ng | Maltego | Spiderfoot
