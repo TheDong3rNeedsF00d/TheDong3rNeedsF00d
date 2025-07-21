@@ -18,3 +18,9 @@ Red Team Analyst | CTF Player | Breaker of things
 	•	:hammer_and_wrench: C2 Frameworks | Cobalt Strike | Mythic | Havoc
 	•	:brain: Scripting | Python | Bash | Lua
 	•	:toolbox: Red Team Ops | Evasion | Persistence | Exfiltration
+
+
+```bash
+┌──(root:skull:redteam)-[~/github]
+└─# whoami
+Red Team Analyst | CTF Player | Cybersecurity Engineer
