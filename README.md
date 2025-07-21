@@ -14,7 +14,7 @@ Red Team Analyst | CTF Player | Breaker of things
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&hide_border=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDong3rNeedsF00d&layout=compact&theme=radical" height="165">
 </p>
@@ -23,7 +23,7 @@ Red Team Analyst | CTF Player | Breaker of things
 
 :hammer_and_wrench: Skills & Arsenal
 	•	:dart: Offensive Security | Penetration Testing | APT Simulations
-	•	:male-detective: OSINT | Recon-ng | Maltego | Spiderfoot
+	•	:magnifying_glass_tilted_left: OSINT | Recon-ng | Maltego | Spiderfoot
 	•	:hammer_and_wrench: C2 Frameworks | Cobalt Strike | Mythic | Havoc
 	•	:brain: Scripting | Python | Bash | Lua
 	•	:toolbox: Red Team Ops | Evasion | Persistence | Exfiltration
