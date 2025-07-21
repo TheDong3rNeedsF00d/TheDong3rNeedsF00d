@@ -10,7 +10,7 @@
 > - 📂 Working on improving my code.
 
 <details>
-<summary>My top languages</summary>
+<summary>My current coding languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
