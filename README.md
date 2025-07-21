@@ -1,8 +1,7 @@
 # TheDong3rNoeedsF00d! 🪪
 
 
-![<TheDong3rNeedsF00d>'s Stats](https://github-readme-stats.vercel.app/api?username=<TheDong3rNeedsF00d>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+[![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d)](https://github.com/TheDong3rNeedsF00d/github-readme-stats)
 ## 🚀 About Me
 
 - 🔭 Currently working within the Red Team arena.
