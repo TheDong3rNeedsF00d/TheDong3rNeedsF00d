@@ -1,7 +1,25 @@
 # TheDong3rNoeedsF00d! 🪪
 
 
-[![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d)](https://github.com/TheDong3rNeedsF00d/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&theme=github_dark)
 
 ## 🚀 About Me
