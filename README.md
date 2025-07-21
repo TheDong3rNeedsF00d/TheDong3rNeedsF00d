@@ -6,4 +6,4 @@
 ```bash
 ┌──(root:skull:redteam)-[~/github]
 └─# whoami
-Red Team Analyst | CTF Player | Cybersecurity Engineer
+Red Team Analyst | CTF Player | Breaker of things
