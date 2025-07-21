@@ -3,14 +3,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Exploit+Development;Threat+Emulation+%7C+Red+Teaming;Recon+%2F+OSINT+%2F+Access;Persistence+%7C+Privilege+Escalation" alt="Typing SVG" />
 </p>
-```bash
-┌──(root:skull:redteam)-[~/github]
-└─# whoami
-Red Team Analyst | CTF Player | Breaker of things
+![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&theme=github_dark)
 
-<h3 align="center">:bomb: Stay stealthy. Stay sharp. Own the network.</h3>```
-
-
+<pre class="hljs language-bash"><code>┌──(root:skull:redteam)-[~/ops]
+├── <span class="hljs-built_in">whoami</span>
+│   ├── TheDong3rNeedsF00d
+│   ├── Red Team Analyst
+│   ├── OSINT Enthusiast
+│   └── CTF Competitor
+└── scripting
+    ├── Python
+    ├── Bash
+    └── Lua
+</code></pre>
 
 :hammer_and_wrench: Skills & Arsenal
 	•	:dart: Offensive Security | Penetration Testing | APT Simulations
@@ -18,9 +23,3 @@ Red Team Analyst | CTF Player | Breaker of things
 	•	:hammer_and_wrench: C2 Frameworks | Cobalt Strike | Mythic | Havoc
 	•	:brain: Scripting | Python | Bash | Lua
 	•	:toolbox: Red Team Ops | Evasion | Persistence | Exfiltration
-
-
-```bash
-┌──(root:skull:redteam)-[~/github]
-└─# whoami
-Red Team Analyst | CTF Player | Cybersecurity Engineer
