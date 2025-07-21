@@ -9,8 +9,8 @@
 > - 📝 Started back in Digital Forensics while a Criminal Investigator in Law Enforcement. 
 > - 📂 Working on improving my code.
 
-<details>
-<summary>My current coding languages</summary>
+
+<summary>Current Coding Languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -18,4 +18,4 @@
 |     2| Lua       |
 |     3| Ruby      |
 
-</details>
+
