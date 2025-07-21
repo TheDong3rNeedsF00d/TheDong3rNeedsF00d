@@ -7,3 +7,26 @@
 ┌──(root:skull:redteam)-[~/github]
 └─# whoami
 Red Team Analyst | CTF Player | Breaker of things
+
+<h3 align="center">:bomb: Stay stealthy. Stay sharp. Own the network.</h3>
+```
+
+
+
+
+
+3:09
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" height="165">
+</p>
+3:09
+<!-- Replace with your own gist ID -->
+
+
+:hammer_and_wrench: Skills & Arsenal
+	•	:dart: Offensive Security | Penetration Testing | APT Simulations
+	•	:male-detective: OSINT | Recon-ng | Maltego | Spiderfoot
+	•	:hammer_and_wrench: C2 Frameworks | Cobalt Strike | Mythic | Havoc
+	•	:brain: Scripting | Python | Bash | Lua
+	•	:toolbox: Red Team Ops | Evasion | Persistence | Exfiltration
