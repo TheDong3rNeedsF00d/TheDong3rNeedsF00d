@@ -2,7 +2,7 @@
 
 
 [![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d)](https://github.com/TheDong3rNeedsF00d/github-readme-stats)
-![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&theme=radical)
+![TheDong3rNeedsF00d's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheDong3rNeedsF00d&show_icons=true&theme=tokyonight)
 ## 🚀 About Me
 
 - 🔭 Currently working within the Red Team arena.
