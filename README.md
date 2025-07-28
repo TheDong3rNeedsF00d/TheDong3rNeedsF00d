@@ -17,9 +17,9 @@
     └── Lua
 </code></pre>
 
-:hammer_and_wrench: Skills & Arsenal
-	•	:dart: Offensive Security | Penetration Testing | APT Simulations
-	•	:magnifying_glass_tilted_left: OSINT | Recon-ng | Maltego | Spiderfoot
-	•	:hammer_and_wrench: C2 Frameworks | Cobalt Strike | Mythic | Havoc
-	•	:brain: Scripting | Python | Bash | Lua
-	•	:toolbox: Red Team Ops | Evasion | Persistence | Exfiltration
+<p>🛠️ Skills &amp; Arsenal<br />
+&ensp;&ensp;&ensp; •	🎯 Offensive Security | Penetration Testing | APT Simulations<br />
+&ensp;&ensp;&ensp; •	🔍 OSINT | Recon-ng | Maltego | Spiderfoot<br />
+&ensp;&ensp;&ensp; •	🛠️ C2 Frameworks | Cobalt Strike | Mythic | Havoc<br />
+&ensp;&ensp;&ensp; •	🧠 Scripting | Python | Bash | Lua<br />
+&ensp;&ensp;&ensp; •	🧰 Red Team Ops | Evasion | Persistence | Exfiltration</p>
